@@ -28,6 +28,9 @@
   font-size: 16px;
   padding: 0 20px;
   vertical-align: middle;
+  overflow: hidden;
+  white-space:nowrap;
+  text-overflow: ellipsis;
 }
 
 .ql-mention-list-item.disabled {
